@@ -1,0 +1,7 @@
+const actionTypes = {
+  BUSCAR_USUARIO: 'BUSCAR_USUARIO',
+  REMOVER_USUARIO: 'REMOVER_USUARIO',
+  ADICIONAR_USUARIO: 'ADICIONAR_USUARIO'
+};
+
+export default actionTypes;
