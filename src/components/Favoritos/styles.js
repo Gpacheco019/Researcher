@@ -18,7 +18,7 @@ export const Container = styled.div`
     margin-top: 1rem;
     min-height: 3rem;
     padding: 1rem 1rem 1rem 3rem;
-    
+    color: #fff;
 
     button {
       font-size: 1em;      
